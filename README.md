@@ -1,0 +1,1 @@
+This is the first project on my Odin journey. I will be making some changes to the google homepage. It will be coded using the devloper tools in the browser, using CSS and HTML.
