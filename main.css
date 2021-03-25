@@ -1,20 +1,31 @@
 html {background-color: white;}
 
 .google-img { display: grid;
-              grid-template-rows: 100px 100px;
+              grid-template-rows: 100px 100px 100px;
                 
               justify-content: center;
               align-items: center;
               padding-top: 200px;
                  }
-     #sbar { width: 280px;
+     
+     
+                 #sbar { 
+                     
                 height: 28px;
-            font-size: 1.2em; }
-    #sbutt {height: 28px;
-        font-size: 1.2em;}
+            font-size: 1.2em;
+        border-radius: 10px;
+        margin-top: 10px; 
+                 }
+   
+   
+        #sbutt { 
+            height: 28px;
+        font-size: 1.2em;
+        margin-top: 10px;
+        border-radius: 10px;
+    }
 
 
-ul {display: inline;}
 
 li {display: inline;
 }
