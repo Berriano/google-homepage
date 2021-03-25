@@ -14,7 +14,45 @@ html {background-color: white;}
         font-size: 1.2em;}
 
 
-   
+ul {display: inline;}
+
+li {display: inline;
+}
+
+.rightnav {float:right; padding-right: 20px;}
+.leftnav   {float: left;}
+
+
+#llist {padding-left: 40px;}
+#rlist {padding-left: 40px;}
+
+footer {
+    width: 100%;
+    position: fixed ; 
+    bottom: 0;        
+    background-color: rgb(233, 233, 233);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 10px;
+height: 105px ;}
+
+
+.footer-right {float: right;
+padding-right: 200px;}
+
+#frspace {padding-right: 30px; }
+
+.footerleft {
+    padding-left: 100px;
+
+}
+
+.footlist { font-size: 15px;}
+
+
+
+
+
+
     
 
     
