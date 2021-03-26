@@ -1,10 +1,10 @@
 
-
+:root {font-family: arial, sans-serif;}
 .google-main { display: grid;
                grid-template-rows: auto auto auto ;
               width: 100%;
               justify-content: center;
-              padding-top: 250px;
+              padding-top: 220px;
                  }
      
      img {position: relative;left: 150px;}
@@ -36,12 +36,14 @@ ul {display: inline;}
 li {display: inline;
 }
 
-.rightnav {float:right; padding-right: 20px;}
-.leftnav   {float: left;}
+.rightnav {float:right; padding-right: 100px;padding-top: 20px;}
+.leftnav   {float: left;padding-left: 50px;padding-top: 20px;}
 
 
 #llist {padding-left: 40px;}
 #rlist {padding-left: 40px;}
+
+.ausfoot { padding-top: 15px;padding-left: 50px;}
 
 footer {
     width: 100%;
@@ -50,16 +52,16 @@ footer {
     background-color: rgb(233, 233, 233);
     font-family:'Times New Roman', Times, serif;
     font-size: 10px;
-height: 105px ;}
+height: 90px ;}
 
 
 .footer-right {float: right;
-padding-right: 200px;}
+padding-right: 160px;}
 
 #frspace {padding-right: 30px; }
 
 .footerleft {
-    padding-left: 100px;
+    padding-left: 160px; padding-top: 30px;
 
 }
 
