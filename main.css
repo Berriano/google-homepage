@@ -1,5 +1,5 @@
 
-:root {font-family: arial, sans-serif;}
+:root {font-family: arial, sans-serif;font-weight: 100;opacity: 0.9;}
 .google-main { display: grid;
                grid-template-rows: auto auto auto ;
               width: 100%;
@@ -24,9 +24,9 @@
      }
 
        
-  .sbutt1 {  position: relative;left :130px;font-weight: 100;height: 40px;width: 130px;border-color: rgb(231, 231, 231);}
+  .sbutt1 {  position: relative;left :130px;font-weight: 100;height: 40px;width: 130px;border-color: rgb(231, 231, 231); border-radius: 10px;opacity: 0.75;}
     
-  .sbutt2 {   position: relative;left: 160px;font-weight: 100;height: 40px;width: 160px;border-color: rgb(231, 231, 231);} 
+  .sbutt2 {   position: relative;left: 160px;font-weight: 100;height: 40px;width: 160px;border-color: rgb(231, 231, 231);border-radius: 10px;opacity: 0.75;} 
  
 button {background-color: rgb(255, 255, 255);}
 button:hover {color: grey;}
